@@ -19,3 +19,8 @@ Prerequisites
 Python 3.10
 Essential Python Libraries: numpy, pandas, sklearn, matplotlib, keras, torch, scipy, imblearn, openpyxl
 Datasets: NSL-KDD, KDD CUP-99 (or other compatible IoT intrusion detection datasets)
+
+
+## Datasets
+Dataset1: https://www.kaggle.com/datasets/galaxyh/kdd-cup-1999-data
+Dataset2: https://www.kaggle.com/datasets/hassan06/nslkdd
